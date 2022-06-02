@@ -1,4 +1,4 @@
-# Hiya, earthlings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hiya, earthlings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
 My name is Claudia Rodriguez (but on the web I go by Cloud Berries) and I'm a Software/Web Developer. I graduated from NYU in 2020 with a
 BS in Computer Science and minors in Cybersecurity and Digital Media. 
