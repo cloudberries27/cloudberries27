@@ -22,7 +22,7 @@ ten books or so. I don't really have any bookworm friends so please follow my in
 
 ## &#x1f4c8; Leetcode Stats, trying to get better at this
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=ccrod2298&theme=dark) 
+![Leetcode Stats](https://leetcard.jacoblin.cool/?username=ccrod2298&theme=dark) 
 
 ## &#10024; Find me on the web!
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" />][1]
